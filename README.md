@@ -1,1 +1,1 @@
-# KanaBn_Board-Project
+# KanaBan-Board-Project
